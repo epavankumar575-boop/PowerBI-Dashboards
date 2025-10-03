@@ -1,2 +1,2 @@
 # PowerBI-Dashboards
-Collection of dashboards on IPL, E-commerce, etc.
+Collection of dashboards on IPL, FM RADIO ANALYSIS, CHOCLET SALES ANALYSIS, etc.
